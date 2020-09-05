@@ -1,0 +1,124 @@
+
+.topBar {
+    height: 92;
+}
+.tpSocial {
+    width: 35%;
+    display: block;
+    top: 50%;
+    position: absolute;
+    right: 0;
+    margin-top: -10px;
+}
+.tbPhn, .tbEmail {
+    width: 65%;
+    padding: 1rem 0rem;
+}
+.navcontainer1 {
+    width: 100%;
+    overflow: hidden;
+    flex-direction: column;
+    align-items: normal;
+}
+.navcontainer {
+    width: 100%;
+    overflow: hidden;
+}
+.container {
+    flex-direction: column;
+    width: 90%;
+}
+img#logo {
+    width: 180px;
+}
+.homeWrapper {
+    width: 100%;
+}
+.abtImg, .abtDtl {
+    width: 100%;
+    padding-left: 0px;
+}
+.abtImg img{
+    width:100%;
+}
+.myBio {
+    margin-top: 10px;
+}
+.abtDlt {
+    flex-direction: column;
+}
+.abtImf1 {
+    width :100%;
+}
+.svrNme {
+    width: 100%;
+}
+.skill {
+    width: 100%;
+}
+.sklprofile {
+    width: 100%;
+}
+.sklprofile img {
+    width: 100%;
+    margin-left:0px;
+}
+.WrkCvr {
+    width: 100%;
+}
+.lastchild {
+    margin-right: 3%;
+}
+.cntfrm{
+    width: 100%;
+    box-shadow: none;
+    border: 1px solid #272727;
+}
+.cnticn{
+    width: 100%;
+    margin-bottom: 30px;
+    padding-left: 35px;
+}
+.mainMenu {
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    top: 157px;
+    height: 50vh;
+    background: #262626;
+    left: 0;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    z-index: 10;
+    transform: scaleY(0);
+    transform-origin: top;
+}
+.mblstky {
+    top: 65px;
+    background: black;
+}
+ul.mainMenu li {
+    padding: 15px 0px;
+}
+.navHam {
+    display: block;
+}
+a.stk {
+    padding: 0px;
+}
+form.mainfrom {
+    width: 100%;
+}
+.ftb {
+    width:30px;
+    height:30px;
+    right:5px;
+}
+.ftrcpyrght p {
+    font-size:1.4rem;
+}
+.ftrLnk a i{
+    margin-right: 22px;
+}
