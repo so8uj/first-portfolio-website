@@ -1,4 +1,5 @@
 
+
 .topBar {
     height: 92;
 }
@@ -37,9 +38,11 @@ img#logo {
 .abtImg, .abtDtl {
     width: 100%;
     padding-left: 0px;
+    height: auto;
 }
 .abtImg img{
     width:100%;
+    size: cover;
 }
 .myBio {
     margin-top: 10px;
